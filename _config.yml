@@ -22,11 +22,11 @@ title: Etol
 email: claudiodonaggio83@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  The personal website of an italian live coder, digital artist and glitch worshipper
-domain: etol1lc.github.io 
-baseurl: "/etol1lc.github.io/" # the subpath of your site, e.g. /blog
-url: "https://etol1lc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# For a user/organization site hosted at https://Etol1LC.github.io, leave `baseurl` empty
+baseurl: "" # the subpath of your site, e.g. /blog — leave empty for user/org site
+url: "https://Etol1LC.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  Etol1LC
+github_username: Etol1LC
 
 # Build settings
 theme: minima
