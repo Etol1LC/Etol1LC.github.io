@@ -1,11 +1,7 @@
 ---
 layout: page
 title: "Performances and Contributions"
----
-
-In 2021 I wrote a little piece on Live Coding which has been included in the book ["Live Coding. A User's Manual"]("https://direct.mit.edu/books/oa-monograph/5495/Live-CodingA-User-s-Manual") by Alan F. Blackwell, Emma Cocker, Geoff Cox, Alex McLean, Thor Magnusson and published by the MIT Press in 2022.
-I have contributed to the development of the [Threnoscope]("https://thormagnusson.github.io/threnoscope/") by Thor Magnusson.
-        
+---        
         
 * **06 September 2025:** A/V live coding performance curated by University Of Turin @ Festival Mirabilia, Cuneo, Italy
 

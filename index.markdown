@@ -9,14 +9,19 @@ title: "Etol"
 
 ![io](/asset/1.jpg)
 photo by Arianna Romano
+Etol (Claudio Donaggio) is an artist who sculpts sound through code. His live coding practice is a continuous exploration at the intersection of algorithmic composition, digital art, and improvisation.
 
-Hello, I am Etol (Claudio Donaggio), a live coder based in Venice, Italy.
-I discovered the practice of live coding in 2015 when I saw a performance by Andrew Sorensen and, through his advice, I downloaded Sonic Pi and started my journey of learning and experimenting with code, music and digital art.
-I perform regularly at gigs and streaming events, in Italy and abroad.
-In February 2020 I have performed with Sam Aaron @Algorave-Prato.
-My first live coding album [Shell Shock](https://etol.bandcamp.com/) has been released on Bandcamp on the 12th of November 2021. It consists of 7 live coded improvisations directly recorded with SuperCollider.
-In case you'd like to support my work, go to the "contacts" section and book me for a gig!!!
-THANKS :) 
+Introduced to the world of creative coding in 2015 after witnessing a performance by Andrew Sorensen, Etol embarked on a journey of experimentation that has led him to become a recognizable voice in the electronic scene. With SuperCollider as his primary tool, his performances are a digital stream of consciousness, where complex rhythmic structures and glitch soundscapes emerge in real-time.
+
+He performs regularly at numerous events and festivals in Italy and abroad. 
+
+His album [Shell Shock(2021)](https://etol.bandcamp.com/), available on Bandcamp, is a faithful snapshot of his creative process: seven pure improvisations, recorded in a single live session, that bear witness to the expressive power of code as a musical instrument.
+
+In 2021 he wrote a short piece on live coding which was included in the book ["Live Coding. A User's Manual"]("https://direct.mit.edu/books/oa-monograph/5495/Live-CodingA-User-s-Manual") by Alan F. Blackwell, Emma Cocker, Geoff Cox, Alex McLean, Thor Magnusson, and published by MIT Press in 2022.
+He also contributed to the development of the [Threnoscope]("https://thormagnusson.github.io/threnoscope/") by Thor Magnusson.
+
+
+Etol is available for performances, workshops, and collaborative projects. For booking inquiries, please proceed to the Contact page. 
 
 ### truth = noise && silence
 
