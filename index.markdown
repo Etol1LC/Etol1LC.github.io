@@ -9,6 +9,8 @@ title: "Etol"
 
 ![io](/asset/1.jpg)
 photo by Arianna Romano
+
+
 Etol (Claudio Donaggio) is an artist who sculpts sound through code. His live coding practice is a continuous exploration at the intersection of algorithmic composition, digital art, and improvisation.
 
 Introduced to the world of creative coding in 2015 after witnessing a performance by Andrew Sorensen, Etol embarked on a journey of experimentation that has led him to become a recognizable voice in the electronic scene. With SuperCollider as his primary tool, his performances are a digital stream of consciousness, where complex rhythmic structures and glitch soundscapes emerge in real-time.
