@@ -21,7 +21,7 @@
 title: Etol
 email: claudiodonaggio83@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- The personal website of an italian live coder, digital artist and glitch worshipper
+ The personal website of a live coder, glitch worshipper and digital anarchist
 # For a user/organization site hosted at https://Etol1LC.github.io, leave `baseurl` empty
 baseurl: "" # the subpath of your site, e.g. /blog — leave empty for user/org site
 url: "https://Etol1LC.github.io" # the base hostname & protocol for your site
